@@ -17,6 +17,10 @@ Start the containers:
 ```bash
 docker-compose up -d
 ```
+Get container ID webservice image:
+```bash
+docker ps -aqf "name=sepristestlibrary_web"
+```
 
 Create Django admin superuser:
 
