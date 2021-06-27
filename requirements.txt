@@ -1,0 +1,6 @@
+psycopg2-binary
+djangorestframework~=3.12.4
+markdown
+django-filter
+drf_yasg
+Django~=3.2.4
